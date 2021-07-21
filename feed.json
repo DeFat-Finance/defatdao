@@ -1,0 +1,91 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DeFat",
+    "subtitle": "DeFi is the future",
+    "icon": "https://defat.finance/images/favicon.ico",
+    "description": "A Dao For DeFi Lovers",
+    "home_page_url": "https://defat.finance",
+    "items": [
+        {
+            "id": "https://defat.finance/defi/cross-chain/blocto/4/",
+            "url": "https://defat.finance/defi/cross-chain/blocto/4/",
+            "title": "Update",
+            "date_published": "2020-08-13T13:45:48.000Z",
+            "content_html": "<div class=\"note primary\">\n<p><a href=\"/defi/cross-chain/blocto/\">🚀Introduction</a> - <a href=\"/defi/cross-chain/blocto/1/\">💌Analysis</a> - <a href=\"/defi/cross-chain/blocto/2/\">📌Tokenomic</a> - <a href=\"/defi/cross-chain/blocto/3\">🌈Tutorial</a> - <a href=\"/defi/cross-chain/blocto/4/\"><strong>🦄Update</strong></a></p>\n</div>\n<h1 id=\"測試\"><a class=\"anchor\" href=\"#測試\">#</a> 測試</h1>\n<p>這是一個測試用的文章</p>\n",
+            "tags": [
+                "Defi",
+                "Cross Chain",
+                "Blocto",
+                "Introduction",
+                "Update"
+            ]
+        },
+        {
+            "id": "https://defat.finance/defi/cross-chain/blocto/3/",
+            "url": "https://defat.finance/defi/cross-chain/blocto/3/",
+            "title": "Tutorial",
+            "date_published": "2020-08-13T13:12:48.000Z",
+            "content_html": "<div class=\"note primary\">\n<p><a href=\"/defi/cross-chain/blocto/\">🚀Introduction</a> - <a href=\"/defi/cross-chain/blocto/1/\">💌Analysis</a> - <a href=\"/defi/cross-chain/blocto/2/\">📌Tokenomic</a> - <a href=\"/defi/cross-chain/blocto/3\"><strong>🌈Tutorial</strong></a> - <a href=\"/defi/cross-chain/blocto/4/\">🦄Update</a></p>\n</div>\n<h1 id=\"測試\"><a class=\"anchor\" href=\"#測試\">#</a> 測試</h1>\n<p>這是一個測試用的文章</p>\n",
+            "tags": [
+                "Defi",
+                "Cross Chain",
+                "Blocto",
+                "Introduction",
+                "Tutorial"
+            ]
+        },
+        {
+            "id": "https://defat.finance/defi/cross-chain/blocto/1/",
+            "url": "https://defat.finance/defi/cross-chain/blocto/1/",
+            "title": "Analysis",
+            "date_published": "2020-08-13T12:56:48.000Z",
+            "content_html": "<div class=\"note primary\">\n<p><a href=\"/defi/cross-chain/blocto/\">🚀Introduction</a> - <a href=\"/defi/cross-chain/blocto/1/\"><strong>💌Analysis</strong></a> - <a href=\"/defi/cross-chain/blocto/2/\">📌Tokenomic</a> - <a href=\"/defi/cross-chain/blocto/3\">🌈Tutorial</a> - <a href=\"/defi/cross-chain/blocto/4/\">🦄Update</a></p>\n</div>\n<div class=\"note warning\">\n<p>測試 1</p>\n</div>\n<h1 id=\"測試\"><a class=\"anchor\" href=\"#測試\">#</a> 測試</h1>\n<p>這是一個測試用的文章</p>\n",
+            "tags": [
+                "Defi",
+                "Cross Chain",
+                "Blocto",
+                "Introduction",
+                "Analysis"
+            ]
+        },
+        {
+            "id": "https://defat.finance/defi/cross-chain/blocto/2/",
+            "url": "https://defat.finance/defi/cross-chain/blocto/2/",
+            "title": "Tokenomic",
+            "date_published": "2020-08-13T12:56:48.000Z",
+            "content_html": "<div class=\"note primary\">\n<p><a href=\"/defi/cross-chain/blocto/\">🚀Introduction</a> - <a href=\"/defi/cross-chain/blocto/1/\">💌Analysis</a> - <a href=\"/defi/cross-chain/blocto/2/\"><strong>📌Tokenomic</strong></a> - <a href=\"/defi/cross-chain/blocto/3\">🌈Tutorial</a> - <a href=\"/defi/cross-chain/blocto/4/\">🦄Update</a></p>\n</div>\n<h1 id=\"測試\"><a class=\"anchor\" href=\"#測試\">#</a> 測試</h1>\n<p>這是一個測試用的文章</p>\n",
+            "tags": [
+                "Defi",
+                "Cross Chain",
+                "Blocto",
+                "Introduction",
+                "Tokenomic"
+            ]
+        },
+        {
+            "id": "https://defat.finance/defi/cross-chain/blocto/",
+            "url": "https://defat.finance/defi/cross-chain/blocto/",
+            "title": "Introduction",
+            "date_published": "2020-08-13T12:45:48.000Z",
+            "content_html": "<div class=\"note info\">\n<p>這是一個測試用的文章</p>\n</div>\n<div class=\"note primary\">\n<p><a href=\"/defi/cross-chain/blocto/\"><strong>🚀Introduction</strong></a> - <a href=\"/defi/cross-chain/blocto/1/\">💌Analysis</a> - <a href=\"/defi/cross-chain/blocto/2/\">📌Tokenomic</a> - <a href=\"/defi/cross-chain/blocto/display/3\">🌈Tutorial</a> - <a href=\"/defi/cross-chain/blocto/4/\">🦄Update</a></p>\n</div>\n<h1 id=\"測試\"><a class=\"anchor\" href=\"#測試\">#</a> 測試</h1>\n<p>這是一個測試用的文章</p>\n",
+            "tags": [
+                "Defi",
+                "Cross Chain",
+                "Blocto",
+                "Introduction"
+            ]
+        },
+        {
+            "id": "https://defat.finance/defi/solana/dexlab/1/",
+            "url": "https://defat.finance/defi/solana/dexlab/1/",
+            "title": "Dexlab",
+            "date_published": "2020-04-12T12:46:25.000Z",
+            "content_html": "<div class=\"note info\">\n<p>這是一個測試用的文章</p>\n</div>\n",
+            "tags": [
+                "Defi",
+                "Solana",
+                "Dexlab"
+            ]
+        }
+    ]
+}
